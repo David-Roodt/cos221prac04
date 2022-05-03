@@ -1,0 +1,1 @@
+java -jar prac04-1.0.jar
