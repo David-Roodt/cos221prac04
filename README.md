@@ -7,3 +7,4 @@
 # java -jar prac04-1.0.jar
 # or by double clicking run.bat within the same folder
 # The appliaction window should pop up and open on the Staff tab
+# Find the Github at https://github.com/David-Roodt/cos221prac04
